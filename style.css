@@ -1,0 +1,31 @@
+body{
+    font-family: 'PT Serif', serif;
+    background-color: cadetblue;     
+}
+.header_div{
+    background-color: antiquewhite;
+    color:red ;
+}
+.header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rosybrown;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px ;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: blueviolet;
+    background-color: antiquewhite;
+    line-height: 3;
+    font-size: 18px;
+    text-shadow: 5px 5px 5px grey;
+}
